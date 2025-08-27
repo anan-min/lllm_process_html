@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env*
+*.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Docker
+*.log
+docker-compose.yml
+Dockerfile
+
+# Ollama
+ollama/
+ollama-models/
+
+# VS Code
+.vscode/
+
+# General
+*.DS_Store
+*.swp
+*.bak
+*.tmp

@@ -1,0 +1,6 @@
+jupyter
+beautifulsoup4
+lxml
+html5lib
+ollama
+ipykernel

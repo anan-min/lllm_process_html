@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Ollama models
+ollama/
+ollama-models/
+
+# Ignore data and logs
+*.log
+*.tmp
+*.bak
